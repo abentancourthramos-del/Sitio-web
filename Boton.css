@@ -1,0 +1,16 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 08-28-2025, 03:15:24 PM
+    Author     : Joharis
+*/.boton_personalizado{text-decoration: none;padding: 5px;
+  font-weight: 600; font-size: 20px;color: #b6bda2;
+  background-color: #244747;border-radius: 10px;
+  border: 1px solid #7b9c92;}
+
+.boton_personalizado:hover{color: #244747;
+background-color: #b6bda2}
+
